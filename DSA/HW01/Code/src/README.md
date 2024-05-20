@@ -13,3 +13,19 @@ Outputs sorted unique integers to a new file.
 Utilizes bubble sort for sorting unique integers.
 
 Provides basic error handling for invalid input lines and out-of-range integers.
+
+
+**Running the Script**
+Execute the script using the following command:
+
+Clone the repository
+
+ git clone https://github.com/Amelieumutoni/UniqueInt.git
+
+Navigate to the directory
+
+cd UniqueInt/
+
+Run the executable file and change the permissions
+
+python uniquelnt
