@@ -1,0 +1,1 @@
+**he Unique Integer Processor is a Javascript program designed to process text files containing integer values, identify unique integers within a specific range, and output sorted unique integers to a new file. This tool is useful for tasks where you need to filter and sort unique integers from input data sets.**
